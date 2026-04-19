@@ -25,12 +25,6 @@ NOTE_TO_SEMITONE = {
     "B": 11,
 }
 
-CAM_MEANING = {
-    "A": "minor",
-    "B": "major",
-}
-
-
 @dataclass
 class SuggestionConfig:
     max_results: int = 5

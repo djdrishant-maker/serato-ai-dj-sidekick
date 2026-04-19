@@ -31,7 +31,7 @@ Use `--headless` to run without GUI.
 
 ## Config
 
-Default config: `/home/runner/work/serato-ai-dj-sidekick/serato-ai-dj-sidekick/src/config/default_config.yaml`
+Default config: `src/config/default_config.yaml`
 
 You can provide an override profile:
 
