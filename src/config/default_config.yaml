@@ -1,0 +1,24 @@
+serato:
+  process_names:
+    - "Serato DJ Pro"
+    - "Serato"
+  ocr_region: null
+
+library:
+  db_path: "~/Music/_Serato_/database V2"
+
+suggestion:
+  max_results: 5
+  bpm_tolerance_percent: 10
+  key_mode: "camelot_plus_semitones"
+  compatible_semitones:
+    - 0
+    - 1
+    - 5
+  energy_curve: "build"
+
+set:
+  default_duration_minutes: 60
+
+communication:
+  state_file: "~/.serato_ai_sidekick/state.json"

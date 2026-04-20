@@ -1,0 +1,5 @@
+PyQt5>=5.15
+PyYAML>=6.0
+Pillow>=10.0
+PyAutoGUI>=0.9
+pytesseract>=0.3
